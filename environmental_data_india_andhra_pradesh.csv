@@ -1,0 +1,601 @@
+Country,State,City,Date,Temperature (°C),Humidity (%),Pressure (hPa),Weather Description,Wind Speed (m/s),Air Quality Index,PM2.5 (µg/m³),PM10 (µg/m³),O3 (µg/m³)
+India,Andhra Pradesh,Vijayawada,2024-11-03 16:10:12,37.6,63,1006,overcast,2.5,167,33,68,44
+India,Andhra Pradesh,Vijayawada,2024-11-02 16:10:12,34.2,88,1016,partly cloudy,2.5,97,49,38,34
+India,Andhra Pradesh,Vijayawada,2024-11-01 16:10:12,39.8,87,1006,partly cloudy,0.6,182,21,49,46
+India,Andhra Pradesh,Vijayawada,2024-10-31 16:10:12,20.1,81,1023,clear sky,2.1,71,49,49,47
+India,Andhra Pradesh,Vijayawada,2024-10-30 16:10:12,26.8,54,1023,overcast,1.9,143,47,23,23
+India,Andhra Pradesh,Vijayawada,2024-10-29 16:10:12,36.3,59,1009,overcast,1.5,75,41,26,31
+India,Andhra Pradesh,Vijayawada,2024-10-28 16:10:12,31.1,90,1005,rain,1.9,84,21,12,15
+India,Andhra Pradesh,Vijayawada,2024-10-27 16:10:12,33.6,89,1010,partly cloudy,1.4,95,23,67,10
+India,Andhra Pradesh,Vijayawada,2024-10-26 16:10:12,34.8,79,1019,partly cloudy,3.3,196,34,63,41
+India,Andhra Pradesh,Vijayawada,2024-10-25 16:10:12,23.8,55,1013,overcast,1.7,73,38,44,50
+India,Andhra Pradesh,Vijayawada,2024-10-24 16:10:12,27.5,74,1011,overcast,1.2,37,12,54,22
+India,Andhra Pradesh,Vijayawada,2024-10-23 16:10:12,22.1,75,1009,partly cloudy,2.2,75,5,44,11
+India,Andhra Pradesh,Vijayawada,2024-10-22 16:10:12,32.8,82,1013,partly cloudy,3.4,184,29,64,40
+India,Andhra Pradesh,Vijayawada,2024-10-21 16:10:12,28.7,57,1013,overcast,0.7,170,19,28,50
+India,Andhra Pradesh,Vijayawada,2024-10-20 16:10:12,21.8,74,1014,clear sky,2.6,136,44,61,34
+India,Andhra Pradesh,Vijayawada,2024-10-19 16:10:12,37.3,84,1005,clear sky,1.3,97,14,37,48
+India,Andhra Pradesh,Vijayawada,2024-10-18 16:10:12,35.9,68,1006,partly cloudy,2.0,75,25,67,21
+India,Andhra Pradesh,Vijayawada,2024-10-17 16:10:12,22.8,59,1019,rain,1.2,143,11,47,33
+India,Andhra Pradesh,Vijayawada,2024-10-16 16:10:12,35.8,53,1007,clear sky,3.6,200,18,28,26
+India,Andhra Pradesh,Vijayawada,2024-10-15 16:10:12,39.8,58,1025,overcast,4.0,62,26,41,17
+India,Andhra Pradesh,Vijayawada,2024-10-14 16:10:12,31.9,87,1008,clear sky,3.0,137,23,70,32
+India,Andhra Pradesh,Vijayawada,2024-10-13 16:10:12,20.9,64,1015,rain,3.9,125,36,33,46
+India,Andhra Pradesh,Vijayawada,2024-10-12 16:10:12,24.5,61,1022,partly cloudy,1.8,78,42,28,26
+India,Andhra Pradesh,Vijayawada,2024-10-11 16:10:12,33.8,78,1015,overcast,1.3,113,24,38,36
+India,Andhra Pradesh,Vijayawada,2024-10-10 16:10:12,23.0,69,1006,partly cloudy,1.2,109,22,51,29
+India,Andhra Pradesh,Vijayawada,2024-10-09 16:10:12,25.9,64,1018,clear sky,3.3,42,41,19,32
+India,Andhra Pradesh,Vijayawada,2024-10-08 16:10:12,20.0,62,1015,clear sky,1.0,40,16,52,17
+India,Andhra Pradesh,Vijayawada,2024-10-07 16:10:12,35.4,51,1022,clear sky,3.4,121,26,37,11
+India,Andhra Pradesh,Vijayawada,2024-10-06 16:10:12,33.0,71,1022,partly cloudy,2.5,134,16,32,16
+India,Andhra Pradesh,Vijayawada,2024-10-05 16:10:12,28.6,67,1007,rain,3.7,49,15,21,38
+India,Andhra Pradesh,Vijayawada,2024-10-04 16:10:12,26.9,70,1013,partly cloudy,4.4,128,24,38,46
+India,Andhra Pradesh,Vijayawada,2024-10-03 16:10:12,31.6,84,1008,rain,3.0,51,26,20,43
+India,Andhra Pradesh,Vijayawada,2024-10-02 16:10:12,36.1,80,1021,overcast,4.1,89,33,69,27
+India,Andhra Pradesh,Vijayawada,2024-10-01 16:10:12,36.9,63,1012,partly cloudy,1.3,191,20,50,23
+India,Andhra Pradesh,Vijayawada,2024-09-30 16:10:12,28.3,62,1024,overcast,2.9,111,32,59,31
+India,Andhra Pradesh,Vijayawada,2024-09-29 16:10:12,22.2,51,1018,clear sky,3.8,58,30,42,13
+India,Andhra Pradesh,Vijayawada,2024-09-28 16:10:12,23.4,75,1006,rain,2.0,45,26,28,24
+India,Andhra Pradesh,Vijayawada,2024-09-27 16:10:12,29.9,57,1024,overcast,3.9,147,22,15,33
+India,Andhra Pradesh,Vijayawada,2024-09-26 16:10:12,23.3,76,1016,clear sky,2.1,188,14,10,41
+India,Andhra Pradesh,Vijayawada,2024-09-25 16:10:12,39.7,64,1019,overcast,4.1,139,25,55,43
+India,Andhra Pradesh,Vijayawada,2024-09-24 16:10:12,22.1,68,1021,clear sky,4.3,118,23,65,47
+India,Andhra Pradesh,Vijayawada,2024-09-23 16:10:12,30.3,64,1021,overcast,2.1,200,44,37,18
+India,Andhra Pradesh,Vijayawada,2024-09-22 16:10:12,32.6,60,1018,overcast,2.4,69,17,22,18
+India,Andhra Pradesh,Vijayawada,2024-09-21 16:10:12,22.2,60,1007,partly cloudy,2.4,63,45,62,19
+India,Andhra Pradesh,Vijayawada,2024-09-20 16:10:12,20.9,74,1015,partly cloudy,3.9,60,45,30,39
+India,Andhra Pradesh,Vijayawada,2024-09-19 16:10:12,38.8,54,1012,partly cloudy,2.7,119,47,25,29
+India,Andhra Pradesh,Vijayawada,2024-09-18 16:10:12,34.5,58,1014,partly cloudy,0.7,198,29,34,28
+India,Andhra Pradesh,Vijayawada,2024-09-17 16:10:12,23.5,77,1025,partly cloudy,1.4,37,29,41,34
+India,Andhra Pradesh,Vijayawada,2024-09-16 16:10:12,24.4,55,1014,partly cloudy,1.0,164,17,59,39
+India,Andhra Pradesh,Vijayawada,2024-09-15 16:10:12,38.5,69,1007,rain,2.4,144,6,56,33
+India,Andhra Pradesh,Vijayawada,2024-09-14 16:10:12,25.1,86,1006,overcast,4.4,139,50,54,44
+India,Andhra Pradesh,Vijayawada,2024-09-13 16:10:12,38.0,53,1023,clear sky,1.7,141,13,15,48
+India,Andhra Pradesh,Vijayawada,2024-09-12 16:10:12,37.6,87,1008,rain,1.6,126,11,57,18
+India,Andhra Pradesh,Vijayawada,2024-09-11 16:10:12,26.3,59,1021,clear sky,4.0,161,6,32,25
+India,Andhra Pradesh,Vijayawada,2024-09-10 16:10:12,23.7,74,1009,rain,3.9,45,35,21,33
+India,Andhra Pradesh,Vijayawada,2024-09-09 16:10:12,25.3,53,1013,rain,3.4,141,11,59,10
+India,Andhra Pradesh,Vijayawada,2024-09-08 16:10:12,25.3,63,1009,overcast,2.7,164,17,60,47
+India,Andhra Pradesh,Vijayawada,2024-09-07 16:10:12,38.9,55,1025,rain,1.6,130,13,38,27
+India,Andhra Pradesh,Vijayawada,2024-09-06 16:10:12,38.6,85,1018,overcast,4.0,93,16,55,32
+India,Andhra Pradesh,Vijayawada,2024-09-05 16:10:12,22.4,61,1020,rain,3.3,153,29,24,43
+India,Andhra Pradesh,Vijayawada,2024-09-04 16:10:12,23.7,63,1013,overcast,3.7,39,39,56,27
+India,Andhra Pradesh,Vijayawada,2024-09-03 16:10:12,26.0,77,1005,rain,2.7,99,47,38,21
+India,Andhra Pradesh,Vijayawada,2024-09-02 16:10:12,20.8,68,1021,clear sky,3.9,151,33,12,38
+India,Andhra Pradesh,Vijayawada,2024-09-01 16:10:12,21.3,59,1016,clear sky,1.8,73,7,64,23
+India,Andhra Pradesh,Vijayawada,2024-08-31 16:10:12,34.5,55,1019,rain,2.3,132,11,56,28
+India,Andhra Pradesh,Vijayawada,2024-08-30 16:10:12,25.1,60,1007,partly cloudy,3.6,30,26,62,46
+India,Andhra Pradesh,Vijayawada,2024-08-29 16:10:12,24.5,67,1010,partly cloudy,3.4,56,6,14,34
+India,Andhra Pradesh,Vijayawada,2024-08-28 16:10:12,21.5,87,1025,rain,3.7,47,40,68,18
+India,Andhra Pradesh,Vijayawada,2024-08-27 16:10:12,34.8,64,1007,clear sky,2.4,169,11,62,30
+India,Andhra Pradesh,Vijayawada,2024-08-26 16:10:12,23.4,76,1016,clear sky,2.9,124,12,14,35
+India,Andhra Pradesh,Vijayawada,2024-08-25 16:10:12,20.2,70,1006,partly cloudy,3.6,193,9,23,15
+India,Andhra Pradesh,Vijayawada,2024-08-24 16:10:12,28.7,55,1014,overcast,3.7,133,49,16,16
+India,Andhra Pradesh,Vijayawada,2024-08-23 16:10:12,36.0,60,1022,partly cloudy,1.4,130,10,54,19
+India,Andhra Pradesh,Vijayawada,2024-08-22 16:10:12,29.5,65,1005,rain,1.0,198,23,18,34
+India,Andhra Pradesh,Vijayawada,2024-08-21 16:10:12,36.9,58,1011,partly cloudy,3.0,164,14,34,19
+India,Andhra Pradesh,Vijayawada,2024-08-20 16:10:12,28.6,80,1006,overcast,1.6,93,20,39,30
+India,Andhra Pradesh,Vijayawada,2024-08-19 16:10:12,21.3,64,1013,rain,2.7,190,21,17,28
+India,Andhra Pradesh,Vijayawada,2024-08-18 16:10:12,25.6,80,1023,clear sky,3.2,73,31,30,36
+India,Andhra Pradesh,Vijayawada,2024-08-17 16:10:12,30.4,90,1015,partly cloudy,1.5,31,27,30,14
+India,Andhra Pradesh,Vijayawada,2024-08-16 16:10:12,31.3,58,1019,rain,3.7,72,50,19,50
+India,Andhra Pradesh,Vijayawada,2024-08-15 16:10:12,30.8,51,1013,clear sky,3.0,33,33,51,15
+India,Andhra Pradesh,Vijayawada,2024-08-14 16:10:12,32.9,64,1025,clear sky,1.4,198,21,57,17
+India,Andhra Pradesh,Vijayawada,2024-08-13 16:10:12,22.2,57,1021,clear sky,3.7,140,42,39,50
+India,Andhra Pradesh,Vijayawada,2024-08-12 16:10:12,29.0,53,1018,partly cloudy,1.7,179,14,17,21
+India,Andhra Pradesh,Vijayawada,2024-08-11 16:10:12,27.4,52,1023,rain,3.3,65,42,20,42
+India,Andhra Pradesh,Vijayawada,2024-08-10 16:10:12,28.8,55,1016,overcast,1.8,118,14,39,46
+India,Andhra Pradesh,Vijayawada,2024-08-09 16:10:12,35.7,55,1016,overcast,3.6,115,46,38,13
+India,Andhra Pradesh,Vijayawada,2024-08-08 16:10:12,24.7,82,1016,partly cloudy,1.0,153,6,52,16
+India,Andhra Pradesh,Vijayawada,2024-08-07 16:10:12,39.1,76,1006,partly cloudy,1.2,182,25,26,34
+India,Andhra Pradesh,Vijayawada,2024-08-06 16:10:12,38.8,79,1020,partly cloudy,3.6,59,5,47,33
+India,Andhra Pradesh,Vijayawada,2024-08-05 16:10:12,30.3,90,1009,rain,0.6,55,14,39,50
+India,Andhra Pradesh,Vijayawada,2024-08-04 16:10:12,28.0,79,1020,partly cloudy,2.6,39,16,17,30
+India,Andhra Pradesh,Vijayawada,2024-08-03 16:10:12,29.1,79,1016,partly cloudy,3.5,155,9,30,16
+India,Andhra Pradesh,Vijayawada,2024-08-02 16:10:12,24.9,50,1022,rain,3.5,81,43,60,15
+India,Andhra Pradesh,Vijayawada,2024-08-01 16:10:12,39.8,69,1017,partly cloudy,4.1,186,37,53,12
+India,Andhra Pradesh,Vijayawada,2024-07-31 16:10:12,33.3,90,1021,overcast,3.5,188,16,47,22
+India,Andhra Pradesh,Vijayawada,2024-07-30 16:10:12,34.2,59,1019,partly cloudy,3.1,97,41,51,36
+India,Andhra Pradesh,Vijayawada,2024-07-29 16:10:12,21.9,52,1015,overcast,0.5,136,46,62,19
+India,Andhra Pradesh,Vijayawada,2024-07-28 16:10:12,39.3,55,1014,overcast,0.6,76,26,55,31
+India,Andhra Pradesh,Vijayawada,2024-07-27 16:10:12,33.6,61,1020,partly cloudy,4.4,142,6,51,45
+India,Andhra Pradesh,Vijayawada,2024-07-26 16:10:12,20.7,80,1017,overcast,3.3,46,42,69,19
+India,Andhra Pradesh,Vijayawada,2024-07-25 16:10:12,36.6,54,1013,partly cloudy,4.3,66,8,62,49
+India,Andhra Pradesh,Vijayawada,2024-07-24 16:10:12,27.4,89,1015,overcast,2.9,172,11,43,46
+India,Andhra Pradesh,Vijayawada,2024-07-23 16:10:12,38.9,50,1025,overcast,2.9,146,15,69,10
+India,Andhra Pradesh,Vijayawada,2024-07-22 16:10:12,32.4,76,1019,rain,2.8,33,15,38,26
+India,Andhra Pradesh,Vijayawada,2024-07-21 16:10:12,31.3,89,1023,overcast,1.3,134,28,16,31
+India,Andhra Pradesh,Vijayawada,2024-07-20 16:10:12,25.1,77,1014,rain,1.2,132,8,62,23
+India,Andhra Pradesh,Vijayawada,2024-07-19 16:10:12,29.4,85,1024,rain,4.3,178,40,55,31
+India,Andhra Pradesh,Vijayawada,2024-07-18 16:10:12,30.0,77,1016,rain,1.3,200,17,49,18
+India,Andhra Pradesh,Vijayawada,2024-07-17 16:10:12,36.3,81,1020,clear sky,4.4,182,27,50,20
+India,Andhra Pradesh,Vijayawada,2024-07-16 16:10:12,30.5,82,1009,rain,2.5,37,38,64,47
+India,Andhra Pradesh,Vijayawada,2024-07-15 16:10:12,25.6,73,1022,rain,3.2,57,28,37,24
+India,Andhra Pradesh,Vijayawada,2024-07-14 16:10:12,29.9,90,1012,overcast,1.4,120,36,69,39
+India,Andhra Pradesh,Vijayawada,2024-07-13 16:10:12,32.3,50,1008,overcast,3.2,34,19,33,33
+India,Andhra Pradesh,Vijayawada,2024-07-12 16:10:12,30.4,66,1016,partly cloudy,0.6,96,19,35,23
+India,Andhra Pradesh,Vijayawada,2024-07-11 16:10:12,33.2,50,1013,rain,2.1,167,24,37,46
+India,Andhra Pradesh,Vijayawada,2024-07-10 16:10:12,34.7,70,1022,clear sky,3.6,51,48,65,12
+India,Andhra Pradesh,Vijayawada,2024-07-09 16:10:12,23.3,74,1017,overcast,2.9,140,11,61,45
+India,Andhra Pradesh,Vijayawada,2024-07-08 16:10:12,24.5,61,1016,overcast,1.4,43,17,59,49
+India,Andhra Pradesh,Vijayawada,2024-07-07 16:10:12,37.3,64,1010,overcast,3.2,45,39,48,47
+India,Andhra Pradesh,Vijayawada,2024-07-06 16:10:12,28.9,89,1018,overcast,3.8,168,34,23,23
+India,Andhra Pradesh,Vijayawada,2024-07-05 16:10:12,26.6,77,1022,overcast,4.4,143,21,27,43
+India,Andhra Pradesh,Vijayawada,2024-07-04 16:10:12,28.5,62,1025,rain,1.8,159,38,56,36
+India,Andhra Pradesh,Vijayawada,2024-07-03 16:10:12,37.7,81,1006,overcast,1.8,125,29,27,42
+India,Andhra Pradesh,Vijayawada,2024-07-02 16:10:12,22.3,72,1018,partly cloudy,1.4,107,50,24,16
+India,Andhra Pradesh,Vijayawada,2024-07-01 16:10:12,23.8,82,1009,overcast,4.2,190,42,15,44
+India,Andhra Pradesh,Vijayawada,2024-06-30 16:10:12,39.6,54,1006,partly cloudy,4.1,190,17,28,25
+India,Andhra Pradesh,Vijayawada,2024-06-29 16:10:12,24.7,76,1012,overcast,1.6,141,20,41,40
+India,Andhra Pradesh,Vijayawada,2024-06-28 16:10:12,35.0,56,1012,rain,0.8,33,36,28,27
+India,Andhra Pradesh,Vijayawada,2024-06-27 16:10:12,31.9,68,1012,partly cloudy,3.1,113,34,52,10
+India,Andhra Pradesh,Vijayawada,2024-06-26 16:10:12,26.6,85,1018,rain,4.1,92,17,57,49
+India,Andhra Pradesh,Vijayawada,2024-06-25 16:10:12,23.8,67,1014,rain,1.8,124,38,15,16
+India,Andhra Pradesh,Vijayawada,2024-06-24 16:10:12,26.3,78,1008,rain,0.6,62,48,28,33
+India,Andhra Pradesh,Vijayawada,2024-06-23 16:10:12,35.7,85,1025,overcast,2.0,199,46,54,34
+India,Andhra Pradesh,Vijayawada,2024-06-22 16:10:12,28.5,73,1009,overcast,1.0,90,25,16,16
+India,Andhra Pradesh,Vijayawada,2024-06-21 16:10:12,39.3,87,1014,overcast,3.8,107,38,61,30
+India,Andhra Pradesh,Vijayawada,2024-06-20 16:10:12,38.7,75,1009,rain,3.8,189,22,56,13
+India,Andhra Pradesh,Vijayawada,2024-06-19 16:10:12,34.3,51,1006,rain,4.0,38,11,60,23
+India,Andhra Pradesh,Vijayawada,2024-06-18 16:10:12,34.4,86,1018,rain,2.8,155,14,30,10
+India,Andhra Pradesh,Vijayawada,2024-06-17 16:10:12,33.9,53,1016,rain,1.7,51,16,44,50
+India,Andhra Pradesh,Vijayawada,2024-06-16 16:10:12,25.6,58,1012,overcast,2.8,183,7,61,47
+India,Andhra Pradesh,Vijayawada,2024-06-15 16:10:12,38.2,67,1009,rain,3.8,46,42,30,17
+India,Andhra Pradesh,Vijayawada,2024-06-14 16:10:12,32.2,84,1018,clear sky,3.2,51,34,20,22
+India,Andhra Pradesh,Vijayawada,2024-06-13 16:10:12,24.5,77,1008,clear sky,0.8,98,21,63,14
+India,Andhra Pradesh,Vijayawada,2024-06-12 16:10:12,27.6,56,1011,partly cloudy,1.4,70,20,70,49
+India,Andhra Pradesh,Vijayawada,2024-06-11 16:10:12,28.0,81,1009,rain,1.9,193,22,29,50
+India,Andhra Pradesh,Vijayawada,2024-06-10 16:10:12,31.2,85,1019,partly cloudy,1.5,87,42,39,46
+India,Andhra Pradesh,Vijayawada,2024-06-09 16:10:12,25.9,78,1021,rain,2.0,164,12,59,46
+India,Andhra Pradesh,Vijayawada,2024-06-08 16:10:12,29.0,78,1009,partly cloudy,0.9,101,48,40,10
+India,Andhra Pradesh,Vijayawada,2024-06-07 16:10:12,23.3,72,1012,rain,3.1,125,35,31,18
+India,Andhra Pradesh,Vijayawada,2024-06-06 16:10:12,37.1,83,1015,rain,3.2,42,22,21,14
+India,Andhra Pradesh,Vijayawada,2024-06-05 16:10:12,35.9,84,1025,rain,0.6,152,25,53,21
+India,Andhra Pradesh,Vijayawada,2024-06-04 16:10:12,28.4,53,1015,partly cloudy,4.4,182,50,31,10
+India,Andhra Pradesh,Vijayawada,2024-06-03 16:10:12,26.0,58,1005,overcast,2.7,191,31,13,39
+India,Andhra Pradesh,Vijayawada,2024-06-02 16:10:12,26.2,77,1006,overcast,1.7,59,24,36,47
+India,Andhra Pradesh,Vijayawada,2024-06-01 16:10:12,25.1,71,1022,rain,2.0,48,34,31,35
+India,Andhra Pradesh,Vijayawada,2024-05-31 16:10:12,38.7,67,1015,clear sky,1.5,113,33,29,45
+India,Andhra Pradesh,Vijayawada,2024-05-30 16:10:12,38.6,82,1016,rain,1.0,127,12,36,28
+India,Andhra Pradesh,Vijayawada,2024-05-29 16:10:12,38.6,65,1025,clear sky,1.1,171,20,66,43
+India,Andhra Pradesh,Vijayawada,2024-05-28 16:10:12,32.8,89,1014,partly cloudy,1.5,63,33,31,40
+India,Andhra Pradesh,Vijayawada,2024-05-27 16:10:12,21.2,72,1023,clear sky,1.1,85,21,10,19
+India,Andhra Pradesh,Vijayawada,2024-05-26 16:10:12,26.9,76,1006,rain,3.6,185,50,57,31
+India,Andhra Pradesh,Vijayawada,2024-05-25 16:10:12,25.4,70,1007,overcast,4.2,168,30,40,31
+India,Andhra Pradesh,Vijayawada,2024-05-24 16:10:12,32.4,63,1007,rain,2.8,38,14,39,38
+India,Andhra Pradesh,Vijayawada,2024-05-23 16:10:12,34.2,53,1015,overcast,2.9,149,34,15,12
+India,Andhra Pradesh,Vijayawada,2024-05-22 16:10:12,23.1,53,1018,clear sky,3.4,33,37,14,31
+India,Andhra Pradesh,Vijayawada,2024-05-21 16:10:12,31.9,53,1010,overcast,3.1,137,37,16,37
+India,Andhra Pradesh,Vijayawada,2024-05-20 16:10:12,26.5,87,1006,rain,4.1,140,50,31,35
+India,Andhra Pradesh,Vijayawada,2024-05-19 16:10:12,33.3,68,1014,partly cloudy,0.6,177,23,45,26
+India,Andhra Pradesh,Vijayawada,2024-05-18 16:10:12,35.5,90,1008,partly cloudy,1.6,98,42,61,17
+India,Andhra Pradesh,Vijayawada,2024-05-17 16:10:12,32.9,87,1009,overcast,3.0,189,16,61,27
+India,Andhra Pradesh,Vijayawada,2024-05-16 16:10:12,36.0,75,1009,partly cloudy,2.4,130,31,11,11
+India,Andhra Pradesh,Vijayawada,2024-05-15 16:10:12,39.6,69,1023,clear sky,4.2,124,15,59,38
+India,Andhra Pradesh,Vijayawada,2024-05-14 16:10:12,22.8,66,1007,overcast,3.3,143,10,46,45
+India,Andhra Pradesh,Vijayawada,2024-05-13 16:10:12,30.0,86,1020,rain,3.1,91,13,17,23
+India,Andhra Pradesh,Vijayawada,2024-05-12 16:10:12,31.3,89,1008,overcast,3.2,69,8,31,41
+India,Andhra Pradesh,Vijayawada,2024-05-11 16:10:12,21.7,89,1006,partly cloudy,1.4,38,34,46,43
+India,Andhra Pradesh,Vijayawada,2024-05-10 16:10:12,38.0,64,1006,overcast,1.7,46,26,16,20
+India,Andhra Pradesh,Vijayawada,2024-05-09 16:10:12,21.3,50,1008,partly cloudy,1.9,122,14,65,22
+India,Andhra Pradesh,Vijayawada,2024-05-08 16:10:12,30.5,77,1010,overcast,0.7,94,19,35,30
+India,Andhra Pradesh,Vijayawada,2024-05-07 16:10:12,38.3,71,1012,clear sky,2.4,66,31,25,25
+India,Andhra Pradesh,Vijayawada,2024-05-06 16:10:12,31.6,77,1015,rain,1.4,55,34,31,27
+India,Andhra Pradesh,Vijayawada,2024-05-05 16:10:12,37.8,82,1005,clear sky,1.4,152,16,25,27
+India,Andhra Pradesh,Vijayawada,2024-05-04 16:10:12,24.3,88,1017,rain,1.1,44,22,45,44
+India,Andhra Pradesh,Vijayawada,2024-05-03 16:10:12,33.8,50,1021,partly cloudy,2.4,164,14,26,33
+India,Andhra Pradesh,Vijayawada,2024-05-02 16:10:12,35.9,59,1005,overcast,3.6,48,7,27,28
+India,Andhra Pradesh,Vijayawada,2024-05-01 16:10:12,34.9,89,1007,clear sky,4.4,99,26,13,37
+India,Andhra Pradesh,Vijayawada,2024-04-30 16:10:12,25.4,83,1025,partly cloudy,4.2,90,23,48,38
+India,Andhra Pradesh,Vijayawada,2024-04-29 16:10:12,20.8,50,1009,overcast,2.4,152,30,36,44
+India,Andhra Pradesh,Vijayawada,2024-04-28 16:10:12,33.3,79,1010,rain,1.9,124,45,25,45
+India,Andhra Pradesh,Vijayawada,2024-04-27 16:10:12,25.8,58,1010,clear sky,2.7,119,20,68,19
+India,Andhra Pradesh,Vijayawada,2024-04-26 16:10:12,37.3,68,1013,partly cloudy,3.0,185,22,48,22
+India,Andhra Pradesh,Vijayawada,2024-04-25 16:10:12,27.0,57,1012,clear sky,3.4,177,50,10,37
+India,Andhra Pradesh,Vijayawada,2024-04-24 16:10:12,30.3,85,1007,clear sky,2.5,97,27,30,18
+India,Andhra Pradesh,Vijayawada,2024-04-23 16:10:12,21.5,85,1005,overcast,4.2,97,13,57,35
+India,Andhra Pradesh,Vijayawada,2024-04-22 16:10:12,31.0,74,1021,rain,3.8,146,36,42,19
+India,Andhra Pradesh,Vijayawada,2024-04-21 16:10:12,25.8,80,1013,overcast,3.1,67,44,12,45
+India,Andhra Pradesh,Vijayawada,2024-04-20 16:10:12,36.2,71,1005,rain,1.2,104,50,56,46
+India,Andhra Pradesh,Vijayawada,2024-04-19 16:10:12,38.8,76,1012,overcast,2.9,66,20,43,50
+India,Andhra Pradesh,Vijayawada,2024-04-18 16:10:12,37.7,86,1013,clear sky,0.9,173,20,32,12
+India,Andhra Pradesh,Vijayawada,2024-04-17 16:10:12,23.4,79,1023,clear sky,2.8,184,45,56,31
+India,Andhra Pradesh,Vijayawada,2024-04-16 16:10:12,35.7,63,1023,rain,3.9,37,33,57,46
+India,Andhra Pradesh,Vijayawada,2024-04-15 16:10:12,30.1,58,1018,rain,2.8,60,39,26,43
+India,Andhra Pradesh,Vijayawada,2024-04-14 16:10:12,20.5,62,1025,partly cloudy,1.1,193,48,20,40
+India,Andhra Pradesh,Vijayawada,2024-04-13 16:10:12,21.3,51,1011,overcast,2.3,127,22,44,39
+India,Andhra Pradesh,Vijayawada,2024-04-12 16:10:12,34.8,67,1005,overcast,2.9,143,39,48,30
+India,Andhra Pradesh,Vijayawada,2024-04-11 16:10:12,27.1,90,1007,overcast,1.5,72,40,25,16
+India,Andhra Pradesh,Vijayawada,2024-04-10 16:10:12,37.3,70,1024,partly cloudy,4.2,64,8,12,41
+India,Andhra Pradesh,Vijayawada,2024-04-09 16:10:12,33.1,59,1020,rain,3.3,96,20,25,28
+India,Andhra Pradesh,Vijayawada,2024-04-08 16:10:12,25.4,82,1007,overcast,3.1,97,6,39,40
+India,Andhra Pradesh,Vijayawada,2024-04-07 16:10:12,23.7,71,1025,overcast,0.6,149,34,60,42
+India,Andhra Pradesh,Vijayawada,2024-04-06 16:10:12,32.9,82,1011,overcast,2.4,173,29,22,34
+India,Andhra Pradesh,Vijayawada,2024-04-05 16:10:12,32.5,88,1008,overcast,3.9,155,47,70,31
+India,Andhra Pradesh,Vijayawada,2024-04-04 16:10:12,27.2,53,1024,partly cloudy,3.9,74,15,28,38
+India,Andhra Pradesh,Vijayawada,2024-04-03 16:10:12,23.5,71,1009,overcast,3.7,107,50,58,37
+India,Andhra Pradesh,Vijayawada,2024-04-02 16:10:12,25.3,75,1012,overcast,3.3,83,50,25,48
+India,Andhra Pradesh,Vijayawada,2024-04-01 16:10:12,25.2,50,1014,partly cloudy,1.4,198,37,12,12
+India,Andhra Pradesh,Vijayawada,2024-03-31 16:10:12,22.5,58,1016,partly cloudy,3.0,172,44,49,18
+India,Andhra Pradesh,Vijayawada,2024-03-30 16:10:12,24.7,53,1005,rain,2.8,55,7,21,50
+India,Andhra Pradesh,Vijayawada,2024-03-29 16:10:12,31.0,80,1015,rain,2.7,49,6,14,30
+India,Andhra Pradesh,Vijayawada,2024-03-28 16:10:12,37.5,84,1012,overcast,3.2,79,39,31,32
+India,Andhra Pradesh,Vijayawada,2024-03-27 16:10:12,31.8,60,1009,overcast,0.8,154,25,55,43
+India,Andhra Pradesh,Vijayawada,2024-03-26 16:10:12,24.9,54,1016,clear sky,3.0,76,49,58,26
+India,Andhra Pradesh,Vijayawada,2024-03-25 16:10:12,38.8,81,1012,clear sky,2.4,123,36,16,31
+India,Andhra Pradesh,Vijayawada,2024-03-24 16:10:12,27.9,65,1025,clear sky,2.5,141,37,57,32
+India,Andhra Pradesh,Vijayawada,2024-03-23 16:10:12,20.3,89,1021,partly cloudy,2.4,102,44,16,35
+India,Andhra Pradesh,Vijayawada,2024-03-22 16:10:12,28.6,84,1025,clear sky,1.8,153,10,38,42
+India,Andhra Pradesh,Vijayawada,2024-03-21 16:10:12,24.9,56,1017,partly cloudy,4.3,123,49,38,27
+India,Andhra Pradesh,Vijayawada,2024-03-20 16:10:12,22.9,70,1022,rain,1.2,84,18,24,40
+India,Andhra Pradesh,Vijayawada,2024-03-19 16:10:12,25.5,76,1022,overcast,4.5,47,45,33,39
+India,Andhra Pradesh,Vijayawada,2024-03-18 16:10:12,33.1,57,1008,overcast,2.8,194,23,41,16
+India,Andhra Pradesh,Vijayawada,2024-03-17 16:10:12,21.6,54,1014,clear sky,1.2,48,34,41,29
+India,Andhra Pradesh,Vijayawada,2024-03-16 16:10:12,35.7,61,1024,rain,1.9,51,46,24,29
+India,Andhra Pradesh,Vijayawada,2024-03-15 16:10:12,25.2,74,1010,rain,1.7,132,12,64,48
+India,Andhra Pradesh,Vijayawada,2024-03-14 16:10:12,33.4,76,1015,rain,2.3,94,36,43,31
+India,Andhra Pradesh,Vijayawada,2024-03-13 16:10:12,30.3,90,1011,rain,1.2,116,24,28,28
+India,Andhra Pradesh,Vijayawada,2024-03-12 16:10:12,25.4,54,1021,clear sky,3.4,187,31,67,34
+India,Andhra Pradesh,Vijayawada,2024-03-11 16:10:12,22.4,50,1012,clear sky,3.6,196,9,59,32
+India,Andhra Pradesh,Vijayawada,2024-03-10 16:10:12,24.5,50,1010,clear sky,3.0,136,18,61,14
+India,Andhra Pradesh,Vijayawada,2024-03-09 16:10:12,37.6,86,1006,partly cloudy,1.5,40,10,23,18
+India,Andhra Pradesh,Vijayawada,2024-03-08 16:10:12,36.0,56,1018,clear sky,1.4,40,16,33,43
+India,Andhra Pradesh,Vijayawada,2024-03-07 16:10:12,39.3,61,1023,clear sky,1.4,93,39,26,17
+India,Andhra Pradesh,Vijayawada,2024-03-06 16:10:12,32.9,84,1018,overcast,3.7,149,16,41,11
+India,Andhra Pradesh,Vijayawada,2024-03-05 16:10:12,24.3,82,1012,partly cloudy,4.1,102,7,59,50
+India,Andhra Pradesh,Vijayawada,2024-03-04 16:10:12,39.6,65,1020,clear sky,3.7,180,24,11,37
+India,Andhra Pradesh,Vijayawada,2024-03-03 16:10:12,35.5,50,1013,rain,2.3,103,43,35,18
+India,Andhra Pradesh,Vijayawada,2024-03-02 16:10:12,32.7,61,1009,partly cloudy,0.7,200,24,36,23
+India,Andhra Pradesh,Vijayawada,2024-03-01 16:10:12,33.9,54,1018,rain,1.5,43,13,28,35
+India,Andhra Pradesh,Vijayawada,2024-02-29 16:10:12,32.9,68,1022,rain,1.2,78,31,65,21
+India,Andhra Pradesh,Vijayawada,2024-02-28 16:10:12,24.2,80,1010,overcast,2.5,196,42,60,15
+India,Andhra Pradesh,Vijayawada,2024-02-27 16:10:12,31.4,89,1018,rain,1.3,135,26,33,46
+India,Andhra Pradesh,Vijayawada,2024-02-26 16:10:12,34.7,55,1010,overcast,2.7,38,32,48,29
+India,Andhra Pradesh,Vijayawada,2024-02-25 16:10:12,29.1,75,1015,clear sky,1.9,97,50,37,45
+India,Andhra Pradesh,Vijayawada,2024-02-24 16:10:12,31.6,50,1019,overcast,1.0,199,46,65,44
+India,Andhra Pradesh,Vijayawada,2024-02-23 16:10:12,32.5,72,1018,rain,1.6,158,48,56,34
+India,Andhra Pradesh,Vijayawada,2024-02-22 16:10:12,27.1,85,1016,rain,0.5,107,11,30,19
+India,Andhra Pradesh,Vijayawada,2024-02-21 16:10:12,25.9,80,1011,rain,0.8,75,48,21,50
+India,Andhra Pradesh,Vijayawada,2024-02-20 16:10:12,29.9,57,1020,partly cloudy,1.8,191,46,25,16
+India,Andhra Pradesh,Vijayawada,2024-02-19 16:10:12,25.7,64,1020,clear sky,1.4,163,49,35,19
+India,Andhra Pradesh,Vijayawada,2024-02-18 16:10:12,20.9,77,1020,overcast,0.8,59,28,30,17
+India,Andhra Pradesh,Vijayawada,2024-02-17 16:10:12,35.2,84,1010,partly cloudy,2.2,150,48,29,40
+India,Andhra Pradesh,Vijayawada,2024-02-16 16:10:12,20.8,67,1006,overcast,1.9,149,29,42,39
+India,Andhra Pradesh,Vijayawada,2024-02-15 16:10:12,38.4,53,1012,overcast,2.2,197,11,30,44
+India,Andhra Pradesh,Vijayawada,2024-02-14 16:10:12,23.4,59,1022,partly cloudy,2.0,168,37,16,47
+India,Andhra Pradesh,Vijayawada,2024-02-13 16:10:12,32.5,53,1025,clear sky,1.9,109,36,58,35
+India,Andhra Pradesh,Vijayawada,2024-02-12 16:10:12,39.3,70,1013,overcast,2.0,87,10,45,50
+India,Andhra Pradesh,Vijayawada,2024-02-11 16:10:12,26.9,69,1019,clear sky,2.3,112,50,35,31
+India,Andhra Pradesh,Vijayawada,2024-02-10 16:10:12,25.7,65,1025,clear sky,3.4,134,14,19,19
+India,Andhra Pradesh,Vijayawada,2024-02-09 16:10:12,28.3,85,1019,overcast,1.0,175,50,15,35
+India,Andhra Pradesh,Vijayawada,2024-02-08 16:10:12,36.3,56,1012,clear sky,0.7,145,13,30,35
+India,Andhra Pradesh,Vijayawada,2024-02-07 16:10:12,32.6,87,1025,rain,1.7,179,33,57,46
+India,Andhra Pradesh,Vijayawada,2024-02-06 16:10:12,23.4,88,1025,partly cloudy,1.6,184,14,24,44
+India,Andhra Pradesh,Vijayawada,2024-02-05 16:10:12,32.7,70,1008,rain,1.8,73,23,19,19
+India,Andhra Pradesh,Vijayawada,2024-02-04 16:10:12,28.6,80,1011,overcast,2.9,99,5,41,29
+India,Andhra Pradesh,Vijayawada,2024-02-03 16:10:12,37.3,62,1013,partly cloudy,3.6,163,33,53,26
+India,Andhra Pradesh,Vijayawada,2024-02-02 16:10:12,25.4,72,1024,clear sky,2.8,139,35,22,23
+India,Andhra Pradesh,Vijayawada,2024-02-01 16:10:12,38.2,67,1014,overcast,0.8,123,42,69,19
+India,Andhra Pradesh,Vijayawada,2024-01-31 16:10:12,30.1,50,1017,clear sky,2.2,144,50,65,21
+India,Andhra Pradesh,Vijayawada,2024-01-30 16:10:12,35.5,90,1012,overcast,3.4,85,37,57,44
+India,Andhra Pradesh,Vijayawada,2024-01-29 16:10:12,37.6,51,1018,clear sky,1.6,46,27,59,45
+India,Andhra Pradesh,Vijayawada,2024-01-28 16:10:12,37.8,53,1009,partly cloudy,1.7,103,48,28,10
+India,Andhra Pradesh,Vijayawada,2024-01-27 16:10:12,32.6,82,1008,overcast,3.1,51,5,60,41
+India,Andhra Pradesh,Vijayawada,2024-01-26 16:10:12,27.6,81,1005,clear sky,4.1,47,13,12,29
+India,Andhra Pradesh,Vijayawada,2024-01-25 16:10:12,22.0,75,1022,rain,1.1,107,24,69,48
+India,Andhra Pradesh,Vijayawada,2024-01-24 16:10:12,31.4,50,1009,clear sky,1.2,142,12,64,25
+India,Andhra Pradesh,Vijayawada,2024-01-23 16:10:12,21.7,52,1013,overcast,0.6,85,23,33,36
+India,Andhra Pradesh,Vijayawada,2024-01-22 16:10:12,27.4,84,1024,partly cloudy,3.2,94,8,48,30
+India,Andhra Pradesh,Vijayawada,2024-01-21 16:10:12,21.3,77,1005,overcast,2.7,52,20,45,20
+India,Andhra Pradesh,Vijayawada,2024-01-20 16:10:12,30.3,59,1017,clear sky,1.8,142,42,50,33
+India,Andhra Pradesh,Vijayawada,2024-01-19 16:10:12,29.9,76,1011,overcast,2.0,74,39,56,45
+India,Andhra Pradesh,Vijayawada,2024-01-18 16:10:12,31.5,76,1011,clear sky,2.2,108,7,23,39
+India,Andhra Pradesh,Vijayawada,2024-01-17 16:10:12,31.4,61,1021,clear sky,3.8,88,36,57,11
+India,Andhra Pradesh,Vijayawada,2024-01-16 16:10:12,35.8,65,1022,clear sky,2.4,147,29,17,27
+India,Andhra Pradesh,Vijayawada,2024-01-15 16:10:12,35.7,67,1021,rain,1.1,54,45,17,10
+India,Andhra Pradesh,Vijayawada,2024-01-14 16:10:12,38.2,86,1014,clear sky,2.3,141,49,66,23
+India,Andhra Pradesh,Vijayawada,2024-01-13 16:10:12,29.8,82,1020,rain,1.7,127,30,21,49
+India,Andhra Pradesh,Vijayawada,2024-01-12 16:10:12,25.0,70,1020,clear sky,0.8,197,34,29,46
+India,Andhra Pradesh,Vijayawada,2024-01-11 16:10:12,26.9,78,1009,overcast,2.4,154,41,24,11
+India,Andhra Pradesh,Vijayawada,2024-01-10 16:10:12,24.7,69,1011,rain,2.4,137,34,53,11
+India,Andhra Pradesh,Vijayawada,2024-01-09 16:10:12,29.5,87,1022,partly cloudy,1.8,98,25,65,11
+India,Andhra Pradesh,Vijayawada,2024-01-08 16:10:12,24.0,54,1015,partly cloudy,2.4,184,27,20,44
+India,Andhra Pradesh,Vijayawada,2024-01-07 16:10:12,21.3,76,1013,rain,2.0,145,41,42,26
+India,Andhra Pradesh,Vijayawada,2024-01-06 16:10:12,37.9,64,1017,clear sky,0.6,38,22,20,39
+India,Andhra Pradesh,Vijayawada,2024-01-05 16:10:12,39.9,79,1022,partly cloudy,3.1,55,40,67,42
+India,Andhra Pradesh,Vijayawada,2024-01-04 16:10:12,33.7,58,1014,overcast,4.3,107,35,70,26
+India,Andhra Pradesh,Vijayawada,2024-01-03 16:10:12,36.2,77,1017,clear sky,0.9,97,27,40,38
+India,Andhra Pradesh,Vijayawada,2024-01-02 16:10:12,23.9,65,1016,overcast,4.2,37,19,43,19
+India,Andhra Pradesh,Vijayawada,2024-01-01 16:10:12,38.1,67,1006,overcast,2.0,92,35,33,27
+India,Andhra Pradesh,Vijayawada,2023-12-31 16:10:12,20.6,90,1025,partly cloudy,2.8,198,20,51,27
+India,Andhra Pradesh,Vijayawada,2023-12-30 16:10:12,38.8,67,1013,rain,0.6,43,31,18,28
+India,Andhra Pradesh,Vijayawada,2023-12-29 16:10:12,39.2,65,1023,overcast,4.5,63,5,66,22
+India,Andhra Pradesh,Vijayawada,2023-12-28 16:10:12,26.9,60,1009,overcast,3.4,149,42,24,15
+India,Andhra Pradesh,Vijayawada,2023-12-27 16:10:12,22.0,72,1011,clear sky,2.0,169,10,20,34
+India,Andhra Pradesh,Vijayawada,2023-12-26 16:10:12,39.3,72,1015,overcast,2.0,82,20,64,20
+India,Andhra Pradesh,Vijayawada,2023-12-25 16:10:12,25.5,66,1005,rain,3.9,73,43,21,35
+India,Andhra Pradesh,Vijayawada,2023-12-24 16:10:12,38.5,53,1023,partly cloudy,2.8,150,27,58,21
+India,Andhra Pradesh,Vijayawada,2023-12-23 16:10:12,34.8,59,1023,rain,4.4,65,29,60,45
+India,Andhra Pradesh,Vijayawada,2023-12-22 16:10:12,28.1,89,1007,clear sky,2.3,49,6,41,16
+India,Andhra Pradesh,Vijayawada,2023-12-21 16:10:12,30.6,64,1013,overcast,4.0,129,32,13,30
+India,Andhra Pradesh,Vijayawada,2023-12-20 16:10:12,23.3,71,1016,clear sky,3.3,90,15,58,32
+India,Andhra Pradesh,Vijayawada,2023-12-19 16:10:12,34.7,62,1019,overcast,1.5,191,47,19,29
+India,Andhra Pradesh,Vijayawada,2023-12-18 16:10:12,26.5,66,1006,rain,3.2,84,32,10,23
+India,Andhra Pradesh,Vijayawada,2023-12-17 16:10:12,37.8,51,1005,partly cloudy,2.8,170,26,14,21
+India,Andhra Pradesh,Vijayawada,2023-12-16 16:10:12,22.9,79,1020,rain,1.7,73,13,65,34
+India,Andhra Pradesh,Vijayawada,2023-12-15 16:10:12,31.3,73,1023,overcast,4.1,199,50,18,26
+India,Andhra Pradesh,Vijayawada,2023-12-14 16:10:12,24.4,88,1024,partly cloudy,0.8,164,40,46,43
+India,Andhra Pradesh,Vijayawada,2023-12-13 16:10:12,35.9,75,1016,clear sky,2.6,176,5,24,36
+India,Andhra Pradesh,Vijayawada,2023-12-12 16:10:12,28.3,74,1016,overcast,2.5,164,22,49,11
+India,Andhra Pradesh,Vijayawada,2023-12-11 16:10:12,38.4,66,1011,overcast,0.8,136,13,33,21
+India,Andhra Pradesh,Vijayawada,2023-12-10 16:10:12,20.0,73,1010,overcast,4.4,103,18,65,32
+India,Andhra Pradesh,Vijayawada,2023-12-09 16:10:12,29.1,50,1008,clear sky,1.0,130,34,27,30
+India,Andhra Pradesh,Vijayawada,2023-12-08 16:10:12,25.2,78,1011,clear sky,1.3,57,7,30,38
+India,Andhra Pradesh,Vijayawada,2023-12-07 16:10:12,28.3,73,1012,partly cloudy,2.2,90,23,60,30
+India,Andhra Pradesh,Vijayawada,2023-12-06 16:10:12,32.5,73,1005,partly cloudy,1.1,82,28,45,24
+India,Andhra Pradesh,Vijayawada,2023-12-05 16:10:12,24.1,73,1021,clear sky,4.4,179,14,36,19
+India,Andhra Pradesh,Vijayawada,2023-12-04 16:10:12,35.9,72,1005,partly cloudy,2.7,160,32,15,22
+India,Andhra Pradesh,Vijayawada,2023-12-03 16:10:12,35.8,80,1019,partly cloudy,3.8,51,31,11,20
+India,Andhra Pradesh,Vijayawada,2023-12-02 16:10:12,27.2,65,1021,rain,3.7,43,12,34,21
+India,Andhra Pradesh,Vijayawada,2023-12-01 16:10:12,35.0,57,1023,partly cloudy,1.2,101,11,25,40
+India,Andhra Pradesh,Vijayawada,2023-11-30 16:10:12,22.1,74,1006,overcast,4.5,161,10,29,23
+India,Andhra Pradesh,Vijayawada,2023-11-29 16:10:12,32.3,51,1018,rain,1.4,42,19,38,39
+India,Andhra Pradesh,Vijayawada,2023-11-28 16:10:12,36.1,58,1024,rain,4.0,148,17,52,14
+India,Andhra Pradesh,Vijayawada,2023-11-27 16:10:12,20.2,72,1006,clear sky,3.8,98,43,65,31
+India,Andhra Pradesh,Vijayawada,2023-11-26 16:10:12,35.7,51,1023,overcast,2.7,74,42,26,32
+India,Andhra Pradesh,Vijayawada,2023-11-25 16:10:12,38.8,75,1017,clear sky,2.2,56,12,13,44
+India,Andhra Pradesh,Vijayawada,2023-11-24 16:10:12,21.9,69,1016,rain,1.9,186,24,20,17
+India,Andhra Pradesh,Vijayawada,2023-11-23 16:10:12,25.5,78,1007,rain,4.2,196,41,24,15
+India,Andhra Pradesh,Vijayawada,2023-11-22 16:10:12,27.7,76,1021,partly cloudy,3.9,195,9,26,31
+India,Andhra Pradesh,Vijayawada,2023-11-21 16:10:12,38.5,79,1021,clear sky,4.0,56,34,35,46
+India,Andhra Pradesh,Vijayawada,2023-11-20 16:10:12,26.0,79,1015,rain,2.7,184,50,52,45
+India,Andhra Pradesh,Vijayawada,2023-11-19 16:10:12,32.5,66,1025,partly cloudy,0.8,194,14,33,37
+India,Andhra Pradesh,Vijayawada,2023-11-18 16:10:12,22.1,51,1025,overcast,1.8,76,45,16,11
+India,Andhra Pradesh,Vijayawada,2023-11-17 16:10:12,36.1,65,1025,rain,1.2,175,47,47,27
+India,Andhra Pradesh,Vijayawada,2023-11-16 16:10:12,24.8,65,1019,partly cloudy,0.9,164,47,15,25
+India,Andhra Pradesh,Vijayawada,2023-11-15 16:10:12,34.1,56,1009,overcast,2.6,195,13,46,13
+India,Andhra Pradesh,Vijayawada,2023-11-14 16:10:12,24.6,72,1025,partly cloudy,2.1,45,21,31,39
+India,Andhra Pradesh,Vijayawada,2023-11-13 16:10:12,22.9,55,1011,rain,1.0,180,37,22,40
+India,Andhra Pradesh,Vijayawada,2023-11-12 16:10:12,21.5,61,1007,partly cloudy,2.0,70,37,49,42
+India,Andhra Pradesh,Vijayawada,2023-11-11 16:10:12,34.1,83,1021,overcast,2.9,42,12,16,14
+India,Andhra Pradesh,Vijayawada,2023-11-10 16:10:12,33.5,75,1013,partly cloudy,2.5,41,30,60,19
+India,Andhra Pradesh,Vijayawada,2023-11-09 16:10:12,22.7,83,1013,partly cloudy,1.5,34,32,65,39
+India,Andhra Pradesh,Vijayawada,2023-11-08 16:10:12,32.0,65,1009,partly cloudy,0.7,85,33,44,39
+India,Andhra Pradesh,Vijayawada,2023-11-07 16:10:12,27.6,80,1017,clear sky,3.3,177,10,21,10
+India,Andhra Pradesh,Vijayawada,2023-11-06 16:10:12,34.7,80,1022,rain,4.2,89,6,49,29
+India,Andhra Pradesh,Vijayawada,2023-11-05 16:10:12,23.9,75,1017,clear sky,3.9,161,12,69,25
+India,Andhra Pradesh,Vijayawada,2023-11-04 16:10:12,23.1,77,1016,rain,3.0,132,43,51,15
+India,Andhra Pradesh,Vijayawada,2023-11-03 16:10:12,31.8,66,1012,overcast,2.8,35,24,12,45
+India,Andhra Pradesh,Vijayawada,2023-11-02 16:10:12,33.5,66,1023,rain,2.9,191,41,55,26
+India,Andhra Pradesh,Vijayawada,2023-11-01 16:10:12,28.5,55,1015,overcast,3.9,91,23,32,41
+India,Andhra Pradesh,Vijayawada,2023-10-31 16:10:12,33.9,85,1014,rain,3.2,177,22,65,13
+India,Andhra Pradesh,Vijayawada,2023-10-30 16:10:12,27.0,65,1005,overcast,0.7,129,29,55,32
+India,Andhra Pradesh,Vijayawada,2023-10-29 16:10:12,28.0,61,1007,partly cloudy,1.5,115,39,41,20
+India,Andhra Pradesh,Vijayawada,2023-10-28 16:10:12,24.2,70,1025,partly cloudy,2.5,162,47,44,35
+India,Andhra Pradesh,Vijayawada,2023-10-27 16:10:12,37.9,67,1024,clear sky,0.6,176,24,45,41
+India,Andhra Pradesh,Vijayawada,2023-10-26 16:10:12,37.1,74,1025,rain,3.1,64,23,45,12
+India,Andhra Pradesh,Vijayawada,2023-10-25 16:10:12,37.4,52,1013,partly cloudy,4.5,30,21,43,36
+India,Andhra Pradesh,Vijayawada,2023-10-24 16:10:12,25.6,72,1007,rain,3.7,32,9,24,35
+India,Andhra Pradesh,Vijayawada,2023-10-23 16:10:12,26.8,77,1014,rain,2.5,59,32,43,46
+India,Andhra Pradesh,Vijayawada,2023-10-22 16:10:12,24.5,64,1005,partly cloudy,4.2,81,22,62,32
+India,Andhra Pradesh,Vijayawada,2023-10-21 16:10:12,26.6,62,1009,rain,2.0,41,14,25,47
+India,Andhra Pradesh,Vijayawada,2023-10-20 16:10:12,38.9,62,1021,rain,1.6,75,46,22,42
+India,Andhra Pradesh,Vijayawada,2023-10-19 16:10:12,32.5,77,1022,partly cloudy,1.6,153,39,57,40
+India,Andhra Pradesh,Vijayawada,2023-10-18 16:10:12,31.9,70,1020,overcast,2.5,50,42,62,12
+India,Andhra Pradesh,Vijayawada,2023-10-17 16:10:12,21.0,57,1019,clear sky,0.9,59,30,56,22
+India,Andhra Pradesh,Vijayawada,2023-10-16 16:10:12,28.2,88,1020,rain,2.4,83,38,51,24
+India,Andhra Pradesh,Vijayawada,2023-10-15 16:10:12,39.7,51,1010,rain,4.0,51,34,65,50
+India,Andhra Pradesh,Vijayawada,2023-10-14 16:10:12,23.0,69,1019,clear sky,3.9,144,25,20,47
+India,Andhra Pradesh,Vijayawada,2023-10-13 16:10:12,22.1,84,1013,partly cloudy,0.9,37,24,52,24
+India,Andhra Pradesh,Vijayawada,2023-10-12 16:10:12,25.9,76,1014,partly cloudy,3.9,160,50,66,22
+India,Andhra Pradesh,Vijayawada,2023-10-11 16:10:12,30.6,85,1013,partly cloudy,3.6,63,33,30,33
+India,Andhra Pradesh,Vijayawada,2023-10-10 16:10:12,38.2,77,1017,overcast,2.4,125,14,10,22
+India,Andhra Pradesh,Vijayawada,2023-10-09 16:10:12,31.5,51,1024,rain,4.0,171,11,20,19
+India,Andhra Pradesh,Vijayawada,2023-10-08 16:10:12,31.9,88,1006,clear sky,1.9,86,42,41,33
+India,Andhra Pradesh,Vijayawada,2023-10-07 16:10:12,32.9,76,1017,rain,4.1,174,43,22,13
+India,Andhra Pradesh,Vijayawada,2023-10-06 16:10:12,39.5,87,1023,clear sky,1.0,59,36,17,22
+India,Andhra Pradesh,Vijayawada,2023-10-05 16:10:12,39.4,83,1012,clear sky,0.6,168,36,50,46
+India,Andhra Pradesh,Vijayawada,2023-10-04 16:10:12,22.2,54,1025,partly cloudy,2.0,87,32,25,49
+India,Andhra Pradesh,Vijayawada,2023-10-03 16:10:12,28.5,52,1023,clear sky,1.0,142,29,54,45
+India,Andhra Pradesh,Vijayawada,2023-10-02 16:10:12,38.4,69,1010,overcast,2.4,188,23,41,50
+India,Andhra Pradesh,Vijayawada,2023-10-01 16:10:12,32.2,71,1007,rain,1.8,158,15,17,20
+India,Andhra Pradesh,Vijayawada,2023-09-30 16:10:12,20.1,65,1020,partly cloudy,3.5,149,23,33,39
+India,Andhra Pradesh,Vijayawada,2023-09-29 16:10:12,33.5,52,1012,clear sky,1.5,160,18,45,22
+India,Andhra Pradesh,Vijayawada,2023-09-28 16:10:12,34.4,53,1018,overcast,3.7,108,33,33,32
+India,Andhra Pradesh,Vijayawada,2023-09-27 16:10:12,21.5,87,1007,rain,1.8,149,50,21,17
+India,Andhra Pradesh,Vijayawada,2023-09-26 16:10:12,39.3,64,1005,clear sky,2.7,133,49,22,35
+India,Andhra Pradesh,Vijayawada,2023-09-25 16:10:12,39.9,61,1019,overcast,3.6,125,22,37,48
+India,Andhra Pradesh,Vijayawada,2023-09-24 16:10:12,32.6,52,1020,partly cloudy,1.6,121,22,37,14
+India,Andhra Pradesh,Vijayawada,2023-09-23 16:10:12,27.8,88,1023,partly cloudy,2.9,95,36,69,23
+India,Andhra Pradesh,Vijayawada,2023-09-22 16:10:12,20.1,81,1017,partly cloudy,4.0,148,42,34,46
+India,Andhra Pradesh,Vijayawada,2023-09-21 16:10:12,28.4,77,1025,partly cloudy,3.3,178,38,12,24
+India,Andhra Pradesh,Vijayawada,2023-09-20 16:10:12,35.2,65,1007,clear sky,3.0,118,25,21,44
+India,Andhra Pradesh,Vijayawada,2023-09-19 16:10:12,28.8,56,1010,overcast,3.3,106,28,42,33
+India,Andhra Pradesh,Vijayawada,2023-09-18 16:10:12,36.2,70,1016,rain,3.6,36,20,27,50
+India,Andhra Pradesh,Vijayawada,2023-09-17 16:10:12,36.3,81,1022,rain,4.1,77,17,25,15
+India,Andhra Pradesh,Vijayawada,2023-09-16 16:10:12,27.0,52,1008,clear sky,1.3,36,20,49,26
+India,Andhra Pradesh,Vijayawada,2023-09-15 16:10:12,26.1,68,1016,overcast,2.6,47,18,59,30
+India,Andhra Pradesh,Vijayawada,2023-09-14 16:10:12,39.2,60,1019,partly cloudy,1.0,44,11,16,39
+India,Andhra Pradesh,Vijayawada,2023-09-13 16:10:12,29.9,68,1007,overcast,2.6,110,37,53,37
+India,Andhra Pradesh,Vijayawada,2023-09-12 16:10:12,34.2,55,1023,partly cloudy,3.1,191,43,40,48
+India,Andhra Pradesh,Vijayawada,2023-09-11 16:10:12,22.5,51,1013,partly cloudy,1.6,128,7,11,24
+India,Andhra Pradesh,Vijayawada,2023-09-10 16:10:12,30.2,87,1022,clear sky,2.3,187,43,52,21
+India,Andhra Pradesh,Vijayawada,2023-09-09 16:10:12,30.9,53,1025,partly cloudy,3.7,182,27,11,24
+India,Andhra Pradesh,Vijayawada,2023-09-08 16:10:12,24.3,77,1022,partly cloudy,1.8,198,39,68,22
+India,Andhra Pradesh,Vijayawada,2023-09-07 16:10:12,37.1,54,1020,partly cloudy,3.0,80,9,50,30
+India,Andhra Pradesh,Vijayawada,2023-09-06 16:10:12,24.7,75,1011,overcast,0.6,30,31,24,22
+India,Andhra Pradesh,Vijayawada,2023-09-05 16:10:12,23.8,50,1012,clear sky,3.8,159,22,47,24
+India,Andhra Pradesh,Vijayawada,2023-09-04 16:10:12,34.5,88,1011,rain,4.4,165,16,10,33
+India,Andhra Pradesh,Vijayawada,2023-09-03 16:10:12,37.7,73,1005,partly cloudy,1.9,83,48,62,40
+India,Andhra Pradesh,Vijayawada,2023-09-02 16:10:12,29.9,88,1008,clear sky,1.5,181,49,16,34
+India,Andhra Pradesh,Vijayawada,2023-09-01 16:10:12,21.1,78,1015,partly cloudy,1.9,89,50,54,25
+India,Andhra Pradesh,Vijayawada,2023-08-31 16:10:12,31.5,64,1007,partly cloudy,1.7,192,21,60,49
+India,Andhra Pradesh,Vijayawada,2023-08-30 16:10:12,26.6,55,1021,overcast,2.0,125,15,37,50
+India,Andhra Pradesh,Vijayawada,2023-08-29 16:10:12,38.1,50,1015,partly cloudy,1.7,45,49,33,36
+India,Andhra Pradesh,Vijayawada,2023-08-28 16:10:12,38.1,58,1024,overcast,2.7,162,32,43,49
+India,Andhra Pradesh,Vijayawada,2023-08-27 16:10:12,36.7,75,1012,clear sky,2.0,70,14,13,48
+India,Andhra Pradesh,Vijayawada,2023-08-26 16:10:12,31.5,88,1010,partly cloudy,1.5,79,21,57,29
+India,Andhra Pradesh,Vijayawada,2023-08-25 16:10:12,26.3,53,1020,clear sky,1.5,164,37,56,48
+India,Andhra Pradesh,Vijayawada,2023-08-24 16:10:12,34.1,84,1013,partly cloudy,3.5,114,50,29,50
+India,Andhra Pradesh,Vijayawada,2023-08-23 16:10:12,25.6,61,1014,overcast,2.2,81,17,18,43
+India,Andhra Pradesh,Vijayawada,2023-08-22 16:10:12,24.4,80,1020,overcast,1.5,119,41,42,17
+India,Andhra Pradesh,Vijayawada,2023-08-21 16:10:12,32.8,61,1023,partly cloudy,1.0,72,29,30,31
+India,Andhra Pradesh,Vijayawada,2023-08-20 16:10:12,35.0,57,1006,overcast,3.7,143,35,68,33
+India,Andhra Pradesh,Vijayawada,2023-08-19 16:10:12,32.1,69,1023,clear sky,2.7,108,44,27,23
+India,Andhra Pradesh,Vijayawada,2023-08-18 16:10:12,28.4,85,1017,overcast,1.5,192,21,49,16
+India,Andhra Pradesh,Vijayawada,2023-08-17 16:10:12,36.4,82,1015,overcast,0.9,113,48,10,12
+India,Andhra Pradesh,Vijayawada,2023-08-16 16:10:12,25.1,72,1022,overcast,1.8,133,43,24,13
+India,Andhra Pradesh,Vijayawada,2023-08-15 16:10:12,25.2,54,1018,rain,1.8,180,33,26,17
+India,Andhra Pradesh,Vijayawada,2023-08-14 16:10:12,30.9,69,1008,overcast,0.8,74,5,45,22
+India,Andhra Pradesh,Vijayawada,2023-08-13 16:10:12,37.7,61,1011,overcast,2.5,133,49,12,26
+India,Andhra Pradesh,Vijayawada,2023-08-12 16:10:12,29.8,80,1010,rain,3.3,198,27,35,16
+India,Andhra Pradesh,Vijayawada,2023-08-11 16:10:12,36.7,64,1018,clear sky,3.9,194,40,29,11
+India,Andhra Pradesh,Vijayawada,2023-08-10 16:10:12,38.4,53,1014,overcast,0.7,86,15,43,23
+India,Andhra Pradesh,Vijayawada,2023-08-09 16:10:12,36.0,86,1015,overcast,0.9,39,28,51,28
+India,Andhra Pradesh,Vijayawada,2023-08-08 16:10:12,33.6,84,1020,overcast,1.1,166,12,11,21
+India,Andhra Pradesh,Vijayawada,2023-08-07 16:10:12,38.2,90,1021,overcast,3.8,48,27,27,20
+India,Andhra Pradesh,Vijayawada,2023-08-06 16:10:12,31.4,65,1017,partly cloudy,3.4,152,43,55,10
+India,Andhra Pradesh,Vijayawada,2023-08-05 16:10:12,35.2,79,1021,partly cloudy,2.0,121,23,53,36
+India,Andhra Pradesh,Vijayawada,2023-08-04 16:10:12,36.5,63,1017,overcast,4.2,67,19,47,47
+India,Andhra Pradesh,Vijayawada,2023-08-03 16:10:12,31.6,50,1005,clear sky,2.5,133,46,43,21
+India,Andhra Pradesh,Vijayawada,2023-08-02 16:10:12,20.3,52,1008,clear sky,3.1,127,16,58,37
+India,Andhra Pradesh,Vijayawada,2023-08-01 16:10:12,28.3,89,1005,clear sky,4.2,107,41,44,28
+India,Andhra Pradesh,Vijayawada,2023-07-31 16:10:12,23.6,52,1022,clear sky,4.4,35,26,37,50
+India,Andhra Pradesh,Vijayawada,2023-07-30 16:10:12,36.8,62,1007,overcast,3.1,157,18,45,15
+India,Andhra Pradesh,Vijayawada,2023-07-29 16:10:12,36.9,81,1019,clear sky,4.1,170,33,35,19
+India,Andhra Pradesh,Vijayawada,2023-07-28 16:10:12,23.8,54,1020,rain,1.3,170,32,22,21
+India,Andhra Pradesh,Vijayawada,2023-07-27 16:10:12,39.1,86,1021,rain,4.5,119,43,17,29
+India,Andhra Pradesh,Vijayawada,2023-07-26 16:10:12,29.5,56,1006,overcast,3.8,161,24,37,27
+India,Andhra Pradesh,Vijayawada,2023-07-25 16:10:12,21.7,73,1021,clear sky,0.8,88,26,46,11
+India,Andhra Pradesh,Vijayawada,2023-07-24 16:10:12,39.4,64,1010,clear sky,1.3,145,6,47,50
+India,Andhra Pradesh,Vijayawada,2023-07-23 16:10:12,38.8,73,1018,partly cloudy,4.5,113,6,68,46
+India,Andhra Pradesh,Vijayawada,2023-07-22 16:10:12,37.8,77,1007,rain,4.4,43,9,10,33
+India,Andhra Pradesh,Vijayawada,2023-07-21 16:10:12,39.2,58,1012,rain,2.4,75,40,49,20
+India,Andhra Pradesh,Vijayawada,2023-07-20 16:10:12,20.1,57,1012,overcast,1.7,181,18,49,16
+India,Andhra Pradesh,Vijayawada,2023-07-19 16:10:12,27.6,62,1005,clear sky,3.1,191,27,68,40
+India,Andhra Pradesh,Vijayawada,2023-07-18 16:10:12,20.4,68,1008,partly cloudy,1.4,53,31,24,49
+India,Andhra Pradesh,Vijayawada,2023-07-17 16:10:12,28.2,66,1019,rain,0.8,48,38,51,50
+India,Andhra Pradesh,Vijayawada,2023-07-16 16:10:12,34.8,62,1022,clear sky,0.9,77,18,46,22
+India,Andhra Pradesh,Vijayawada,2023-07-15 16:10:12,26.8,63,1019,rain,3.0,140,46,11,49
+India,Andhra Pradesh,Vijayawada,2023-07-14 16:10:12,36.1,78,1007,rain,2.7,117,29,31,46
+India,Andhra Pradesh,Vijayawada,2023-07-13 16:10:12,34.8,85,1024,overcast,3.8,75,46,38,36
+India,Andhra Pradesh,Vijayawada,2023-07-12 16:10:12,36.8,83,1018,rain,2.2,100,48,65,17
+India,Andhra Pradesh,Vijayawada,2023-07-11 16:10:12,30.9,64,1016,clear sky,4.2,102,41,67,42
+India,Andhra Pradesh,Vijayawada,2023-07-10 16:10:12,34.7,80,1006,overcast,4.1,157,40,57,31
+India,Andhra Pradesh,Vijayawada,2023-07-09 16:10:12,36.0,61,1025,clear sky,1.0,104,30,31,12
+India,Andhra Pradesh,Vijayawada,2023-07-08 16:10:12,24.7,63,1015,overcast,1.1,127,29,27,37
+India,Andhra Pradesh,Vijayawada,2023-07-07 16:10:12,32.8,66,1017,rain,1.6,89,8,41,37
+India,Andhra Pradesh,Vijayawada,2023-07-06 16:10:12,37.4,89,1017,partly cloudy,1.3,107,16,22,21
+India,Andhra Pradesh,Vijayawada,2023-07-05 16:10:12,24.6,55,1010,rain,3.2,110,6,31,37
+India,Andhra Pradesh,Vijayawada,2023-07-04 16:10:12,30.2,69,1015,overcast,0.8,77,16,31,43
+India,Andhra Pradesh,Vijayawada,2023-07-03 16:10:12,30.4,63,1016,partly cloudy,3.8,116,40,43,22
+India,Andhra Pradesh,Vijayawada,2023-07-02 16:10:12,30.2,61,1013,clear sky,1.3,94,43,20,49
+India,Andhra Pradesh,Vijayawada,2023-07-01 16:10:12,27.4,81,1023,partly cloudy,3.7,199,45,47,30
+India,Andhra Pradesh,Vijayawada,2023-06-30 16:10:12,23.2,69,1006,rain,0.6,87,11,54,45
+India,Andhra Pradesh,Vijayawada,2023-06-29 16:10:12,38.7,79,1018,partly cloudy,1.7,161,16,67,37
+India,Andhra Pradesh,Vijayawada,2023-06-28 16:10:12,26.8,83,1010,partly cloudy,0.8,96,50,69,18
+India,Andhra Pradesh,Vijayawada,2023-06-27 16:10:12,25.0,52,1007,rain,1.6,34,28,12,23
+India,Andhra Pradesh,Vijayawada,2023-06-26 16:10:12,25.9,87,1023,overcast,1.8,50,46,69,21
+India,Andhra Pradesh,Vijayawada,2023-06-25 16:10:12,38.8,83,1006,overcast,0.7,88,7,22,40
+India,Andhra Pradesh,Vijayawada,2023-06-24 16:10:12,21.6,59,1012,rain,3.1,64,43,45,43
+India,Andhra Pradesh,Vijayawada,2023-06-23 16:10:12,28.6,65,1006,partly cloudy,2.5,94,22,57,13
+India,Andhra Pradesh,Vijayawada,2023-06-22 16:10:12,22.6,81,1015,overcast,1.4,94,43,41,48
+India,Andhra Pradesh,Vijayawada,2023-06-21 16:10:12,37.3,54,1012,clear sky,3.2,52,23,20,35
+India,Andhra Pradesh,Vijayawada,2023-06-20 16:10:12,33.0,60,1013,rain,3.9,114,32,12,46
+India,Andhra Pradesh,Vijayawada,2023-06-19 16:10:12,29.8,86,1014,clear sky,4.1,155,47,44,47
+India,Andhra Pradesh,Vijayawada,2023-06-18 16:10:12,28.6,86,1013,overcast,2.7,134,29,12,43
+India,Andhra Pradesh,Vijayawada,2023-06-17 16:10:12,30.6,70,1021,overcast,2.8,52,30,42,42
+India,Andhra Pradesh,Vijayawada,2023-06-16 16:10:12,24.3,74,1022,overcast,2.6,110,43,60,50
+India,Andhra Pradesh,Vijayawada,2023-06-15 16:10:12,38.0,71,1020,overcast,4.2,169,19,59,21
+India,Andhra Pradesh,Vijayawada,2023-06-14 16:10:12,37.3,73,1024,clear sky,3.0,114,20,38,45
+India,Andhra Pradesh,Vijayawada,2023-06-13 16:10:12,37.1,84,1009,overcast,3.1,67,19,48,36
+India,Andhra Pradesh,Vijayawada,2023-06-12 16:10:12,22.3,52,1014,rain,2.7,147,37,14,15
+India,Andhra Pradesh,Vijayawada,2023-06-11 16:10:12,29.6,61,1022,rain,3.4,121,17,57,23
+India,Andhra Pradesh,Vijayawada,2023-06-10 16:10:12,38.2,61,1013,partly cloudy,4.4,197,13,41,31
+India,Andhra Pradesh,Vijayawada,2023-06-09 16:10:12,21.3,66,1014,overcast,1.3,86,5,55,13
+India,Andhra Pradesh,Vijayawada,2023-06-08 16:10:12,32.0,54,1009,partly cloudy,3.2,47,26,37,22
+India,Andhra Pradesh,Vijayawada,2023-06-07 16:10:12,27.6,51,1007,rain,3.9,47,12,45,23
+India,Andhra Pradesh,Vijayawada,2023-06-06 16:10:12,20.2,59,1020,clear sky,0.8,141,12,67,40
+India,Andhra Pradesh,Vijayawada,2023-06-05 16:10:12,32.8,81,1008,clear sky,3.9,64,8,52,48
+India,Andhra Pradesh,Vijayawada,2023-06-04 16:10:12,34.8,50,1025,partly cloudy,2.4,57,13,28,21
+India,Andhra Pradesh,Vijayawada,2023-06-03 16:10:12,35.3,84,1019,partly cloudy,4.0,142,24,18,11
+India,Andhra Pradesh,Vijayawada,2023-06-02 16:10:12,33.3,87,1018,clear sky,2.1,155,49,10,34
+India,Andhra Pradesh,Vijayawada,2023-06-01 16:10:12,34.9,62,1018,partly cloudy,1.0,133,8,56,38
+India,Andhra Pradesh,Vijayawada,2023-05-31 16:10:12,32.6,54,1007,partly cloudy,1.3,189,47,35,23
+India,Andhra Pradesh,Vijayawada,2023-05-30 16:10:12,25.6,81,1005,partly cloudy,3.5,185,12,14,36
+India,Andhra Pradesh,Vijayawada,2023-05-29 16:10:12,22.8,72,1018,clear sky,3.8,124,49,12,19
+India,Andhra Pradesh,Vijayawada,2023-05-28 16:10:12,24.1,72,1012,overcast,1.9,155,19,54,11
+India,Andhra Pradesh,Vijayawada,2023-05-27 16:10:12,36.2,67,1010,rain,2.4,159,17,45,26
+India,Andhra Pradesh,Vijayawada,2023-05-26 16:10:12,36.5,51,1021,clear sky,3.7,57,36,24,42
+India,Andhra Pradesh,Vijayawada,2023-05-25 16:10:12,30.5,53,1012,clear sky,1.1,85,46,30,10
+India,Andhra Pradesh,Vijayawada,2023-05-24 16:10:12,29.8,80,1016,partly cloudy,3.1,173,16,33,29
+India,Andhra Pradesh,Vijayawada,2023-05-23 16:10:12,29.6,70,1020,overcast,2.8,182,31,17,24
+India,Andhra Pradesh,Vijayawada,2023-05-22 16:10:12,35.7,82,1018,rain,3.7,131,5,65,12
+India,Andhra Pradesh,Vijayawada,2023-05-21 16:10:12,25.8,61,1014,overcast,1.2,104,37,53,18
+India,Andhra Pradesh,Vijayawada,2023-05-20 16:10:12,21.3,73,1007,rain,4.0,200,42,19,16
+India,Andhra Pradesh,Vijayawada,2023-05-19 16:10:12,26.0,71,1005,overcast,2.7,99,43,69,22
+India,Andhra Pradesh,Vijayawada,2023-05-18 16:10:12,24.2,66,1019,partly cloudy,1.8,159,43,70,12
+India,Andhra Pradesh,Vijayawada,2023-05-17 16:10:12,38.9,57,1005,clear sky,3.4,165,11,65,28
+India,Andhra Pradesh,Vijayawada,2023-05-16 16:10:12,39.3,83,1006,clear sky,2.4,195,19,11,42
+India,Andhra Pradesh,Vijayawada,2023-05-15 16:10:12,31.6,90,1016,rain,1.1,97,26,28,16
+India,Andhra Pradesh,Vijayawada,2023-05-14 16:10:12,24.8,53,1024,partly cloudy,1.1,45,8,58,28
+India,Andhra Pradesh,Vijayawada,2023-05-13 16:10:12,25.4,70,1025,clear sky,3.0,48,37,25,20
+India,Andhra Pradesh,Vijayawada,2023-05-12 16:10:12,36.3,58,1020,partly cloudy,1.8,118,36,41,36
+India,Andhra Pradesh,Vijayawada,2023-05-11 16:10:12,25.5,55,1014,rain,2.1,161,19,67,47
+India,Andhra Pradesh,Vijayawada,2023-05-10 16:10:12,35.3,52,1025,overcast,1.8,139,37,62,42
+India,Andhra Pradesh,Vijayawada,2023-05-09 16:10:12,27.5,66,1021,rain,1.5,164,20,11,48
+India,Andhra Pradesh,Vijayawada,2023-05-08 16:10:12,37.2,65,1019,clear sky,2.7,126,13,20,21
+India,Andhra Pradesh,Vijayawada,2023-05-07 16:10:12,33.9,86,1020,clear sky,2.5,102,41,43,19
+India,Andhra Pradesh,Vijayawada,2023-05-06 16:10:12,37.4,67,1012,clear sky,4.1,30,16,18,30
+India,Andhra Pradesh,Vijayawada,2023-05-05 16:10:12,27.2,60,1016,partly cloudy,1.8,87,7,40,46
+India,Andhra Pradesh,Vijayawada,2023-05-04 16:10:12,26.5,58,1014,clear sky,2.4,140,25,32,47
+India,Andhra Pradesh,Vijayawada,2023-05-03 16:10:12,28.4,81,1023,overcast,3.3,35,43,34,31
+India,Andhra Pradesh,Vijayawada,2023-05-02 16:10:12,23.0,74,1019,clear sky,3.3,146,12,50,27
+India,Andhra Pradesh,Vijayawada,2023-05-01 16:10:12,25.6,63,1010,clear sky,2.1,179,43,32,47
+India,Andhra Pradesh,Vijayawada,2023-04-30 16:10:12,34.3,55,1015,partly cloudy,3.4,53,11,38,45
+India,Andhra Pradesh,Vijayawada,2023-04-29 16:10:12,29.3,67,1005,clear sky,1.0,88,29,26,14
+India,Andhra Pradesh,Vijayawada,2023-04-28 16:10:12,39.5,50,1021,clear sky,0.7,48,7,16,19
+India,Andhra Pradesh,Vijayawada,2023-04-27 16:10:12,20.8,74,1017,overcast,4.2,154,47,19,25
+India,Andhra Pradesh,Vijayawada,2023-04-26 16:10:12,21.6,80,1019,overcast,1.9,80,31,54,42
+India,Andhra Pradesh,Vijayawada,2023-04-25 16:10:12,31.1,79,1011,partly cloudy,2.4,96,27,61,21
+India,Andhra Pradesh,Vijayawada,2023-04-24 16:10:12,36.3,58,1005,rain,3.6,102,50,15,46
+India,Andhra Pradesh,Vijayawada,2023-04-23 16:10:12,22.3,82,1023,clear sky,1.3,172,16,69,47
+India,Andhra Pradesh,Vijayawada,2023-04-22 16:10:12,24.3,79,1017,rain,4.1,71,16,12,36
+India,Andhra Pradesh,Vijayawada,2023-04-21 16:10:12,27.3,71,1007,partly cloudy,4.2,113,25,54,41
+India,Andhra Pradesh,Vijayawada,2023-04-20 16:10:12,34.4,64,1022,clear sky,1.8,100,10,15,12
+India,Andhra Pradesh,Vijayawada,2023-04-19 16:10:12,22.2,74,1023,partly cloudy,2.5,74,21,41,39
+India,Andhra Pradesh,Vijayawada,2023-04-18 16:10:12,39.4,69,1024,clear sky,2.3,53,42,58,37
+India,Andhra Pradesh,Vijayawada,2023-04-17 16:10:12,32.2,82,1013,rain,1.8,141,37,38,32
+India,Andhra Pradesh,Vijayawada,2023-04-16 16:10:12,24.0,56,1014,clear sky,2.2,165,41,27,11
+India,Andhra Pradesh,Vijayawada,2023-04-15 16:10:12,20.8,61,1024,rain,1.0,159,45,58,45
+India,Andhra Pradesh,Vijayawada,2023-04-14 16:10:12,34.3,71,1019,overcast,2.9,66,48,43,29
+India,Andhra Pradesh,Vijayawada,2023-04-13 16:10:12,37.1,64,1009,clear sky,1.8,68,40,35,24
+India,Andhra Pradesh,Vijayawada,2023-04-12 16:10:12,35.8,71,1024,rain,2.7,188,36,44,28
+India,Andhra Pradesh,Vijayawada,2023-04-11 16:10:12,34.8,65,1024,overcast,1.1,148,9,37,50
+India,Andhra Pradesh,Vijayawada,2023-04-10 16:10:12,29.7,83,1020,overcast,1.6,186,27,38,15
+India,Andhra Pradesh,Vijayawada,2023-04-09 16:10:12,30.9,56,1006,rain,2.5,70,23,19,29
+India,Andhra Pradesh,Vijayawada,2023-04-08 16:10:12,21.1,66,1020,clear sky,1.9,47,18,21,23
+India,Andhra Pradesh,Vijayawada,2023-04-07 16:10:12,20.1,61,1025,clear sky,2.9,58,24,10,32
+India,Andhra Pradesh,Vijayawada,2023-04-06 16:10:12,29.0,62,1021,rain,0.5,69,33,40,43
+India,Andhra Pradesh,Vijayawada,2023-04-05 16:10:12,23.3,67,1018,overcast,2.7,195,23,29,35
+India,Andhra Pradesh,Vijayawada,2023-04-04 16:10:12,27.1,56,1022,partly cloudy,2.3,185,37,13,34
+India,Andhra Pradesh,Vijayawada,2023-04-03 16:10:12,33.8,67,1024,partly cloudy,2.2,38,48,37,44
+India,Andhra Pradesh,Vijayawada,2023-04-02 16:10:12,21.1,53,1023,overcast,3.8,119,46,20,17
+India,Andhra Pradesh,Vijayawada,2023-04-01 16:10:12,28.0,75,1007,rain,2.3,130,42,42,10
+India,Andhra Pradesh,Vijayawada,2023-03-31 16:10:12,25.8,54,1014,rain,1.4,157,20,56,18
+India,Andhra Pradesh,Vijayawada,2023-03-30 16:10:12,31.1,79,1023,partly cloudy,3.5,164,25,48,42
+India,Andhra Pradesh,Vijayawada,2023-03-29 16:10:12,38.5,69,1018,rain,2.9,122,18,36,22
+India,Andhra Pradesh,Vijayawada,2023-03-28 16:10:12,27.2,86,1005,partly cloudy,0.6,185,5,30,37
+India,Andhra Pradesh,Vijayawada,2023-03-27 16:10:12,24.5,84,1021,clear sky,1.5,48,16,36,30
+India,Andhra Pradesh,Vijayawada,2023-03-26 16:10:12,31.6,68,1019,clear sky,3.6,63,10,26,49
+India,Andhra Pradesh,Vijayawada,2023-03-25 16:10:12,26.5,88,1016,rain,2.7,99,33,14,16
+India,Andhra Pradesh,Vijayawada,2023-03-24 16:10:12,34.7,84,1009,partly cloudy,1.5,124,11,50,32
+India,Andhra Pradesh,Vijayawada,2023-03-23 16:10:12,35.1,69,1013,partly cloudy,0.6,113,30,66,29
+India,Andhra Pradesh,Vijayawada,2023-03-22 16:10:12,31.7,74,1021,rain,2.6,31,20,65,50
+India,Andhra Pradesh,Vijayawada,2023-03-21 16:10:12,20.0,64,1012,partly cloudy,3.3,95,49,55,13
+India,Andhra Pradesh,Vijayawada,2023-03-20 16:10:12,30.9,68,1017,rain,2.4,142,11,40,16
+India,Andhra Pradesh,Vijayawada,2023-03-19 16:10:12,22.8,84,1025,clear sky,0.9,46,41,31,32
+India,Andhra Pradesh,Vijayawada,2023-03-18 16:10:12,36.4,73,1010,rain,3.7,168,10,28,15
+India,Andhra Pradesh,Vijayawada,2023-03-17 16:10:12,39.1,89,1024,overcast,1.7,86,10,67,49
+India,Andhra Pradesh,Vijayawada,2023-03-16 16:10:12,28.1,66,1013,overcast,4.4,45,25,51,14
+India,Andhra Pradesh,Vijayawada,2023-03-15 16:10:12,25.8,78,1009,overcast,0.8,59,36,68,46
